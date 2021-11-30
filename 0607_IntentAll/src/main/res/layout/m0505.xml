@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gray"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/p10"
+    android:paddingTop="@dimen/p10"
+    android:paddingRight="@dimen/p10"
+    android:paddingBottom="@dimen/p10"
+    tools:context=".M0505">
+
+    <TextView
+        android:id="@+id/m0505_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0C0C0C"
+        android:text="@string/m0505_t001"
+        android:textColor="#F8F6F6"
+        android:textSize="@dimen/fontsize"
+        android:textStyle="bold" />
+
+    <AutoCompleteTextView
+        android:id="@+id/m0505_a001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/White"
+        android:hint="@string/m0505_a001"
+        android:singleLine="true"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+    <Button
+        android:id="@+id/m0505_b001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p20"
+        android:text="@string/m0505_b001"
+        android:textColor="#0529EC"
+        android:textSize="@dimen/fontsize"
+        android:textStyle="bold"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/m0505_b002"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p20"
+        android:text="@string/m0505_t002"
+        android:textColor="#EA0909"
+        android:textSize="@dimen/fontsize"
+        android:textStyle="bold"
+        tools:ignore="TextContrastCheck" />
+
+    <TextView
+        android:id="@+id/m0505_t002"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p50"
+        android:gravity="end"
+        android:text="@string/name"
+        android:textSize="@dimen/fontsize"
+        android:textStyle="bold"
+        tools:ignore="TextContrastCheck" />
+</LinearLayout>

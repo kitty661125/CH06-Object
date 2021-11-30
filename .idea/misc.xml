@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/CH06Object/0600_RelativeLayout/src/main/res/layout/m0600.xml" value="0.2564814814814815" />
+        <entry key="..\:/android-work/CH06Object/0601_RelativeLayout_Game/src/main/res/layout/m0601.xml" value="0.24074074074074073" />
+        <entry key="..\:/android-work/CH06Object/0601a_Game_textcolor/src/main/res/layout/m0601.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0602_ImageButton/src/main/res/layout/m0602.xml" value="0.25" />
+        <entry key="..\:/android-work/CH06Object/0602_ImageButton/src/main/res/mipmap-anydpi-v26/ic_launcher_0602.xml" value="0.20052083333333334" />
+        <entry key="..\:/android-work/CH06Object/0603_Game_music/src/main/res/layout/m0602.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0603_Game_music/src/main/res/layout/m0603.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0604_Toast_Type/src/main/res/layout/custom.xml" value="0.32083333333333336" />
+        <entry key="..\:/android-work/CH06Object/0604_Toast_Type/src/main/res/layout/m0604.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0605_GameToast/src/main/res/layout/m0603.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0605_GameToast/src/main/res/layout/m0605.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0606_Game_fina/src/main/res/layout/m0606.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/custom.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/m0501.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/m0502.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/m0503.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/m0504.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/m0505.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/m0604.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/m0605.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/m0607.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/0607_IntentAll/src/main/res/layout/spinner_item.xml" value="0.2375" />
+        <entry key="..\:/android-work/CH06Object/0608b_ScrollView/src/main/res/layout/m0608b.xml" value="0.3375" />
+        <entry key="..\:/android-work/CH06Object/app/src/main/res/layout/activity_main.xml" value="0.2564814814814815" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

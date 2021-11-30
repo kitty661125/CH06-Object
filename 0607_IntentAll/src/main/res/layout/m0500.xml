@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Silver"
+    android:orientation="vertical"
+    android:paddingStart="@dimen/pad01"
+    tools:context=".M0500">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/pad01">
+
+        <TextView
+            android:id="@+id/m0500_t001"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/m0500_t001"
+            android:textColor="@color/Blue"
+            android:textSize="@dimen/fontSize"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/m0500_e001"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:background="@color/White"
+            android:ems="10"
+            android:gravity="end"
+            android:hint="@string/m0500_e001_hint"
+            android:inputType="numberDecimal"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            android:text="@string/zero"
+            android:textSize="@dimen/fontSize"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck,DuplicateSpeakableTextCheck,DuplicateSpeakableTextCheck,DuplicateSpeakableTextCheck,DuplicateSpeakableTextCheck,DuplicateSpeakableTextCheck" />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/m0500_b001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@color/Yellow"
+        android:padding="@dimen/pad01"
+        android:text="@string/m0500_b001"
+        android:textColor="@color/Red"
+        android:textSize="@dimen/fontSize" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <TextView
+            android:id="@+id/m0500_t002"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/m0500_t002"
+            android:textColor="@color/Blue"
+            android:textSize="@dimen/fontSize"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/m0500_t003"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Gray"
+            android:ems="10"
+            android:gravity="end"
+            android:minWidth="48dp"
+
+            android:minHeight="48dp"
+            android:text="@string/zero"
+            android:textColor="#263238"
+            android:textSize="@dimen/fontSize"
+            tools:ignore="TextContrastCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck" />
+    </TableRow>
+
+    <TextView
+        android:id="@+id/m0500_t004"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:gravity="end"
+        android:text="@string/m0500_t004_Sname"
+        android:textColor="@color/Blue"
+        android:textSize="@dimen/fontSize"
+        android:textStyle="bold" />
+
+</LinearLayout>
